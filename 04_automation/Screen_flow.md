@@ -17,14 +17,13 @@ It contains the following screens:
 
 ---
 This screen created the service request.
-
+![service request](../Screenshots/screenflowcreation.png)
 
 
 ---
 This screen confirms that the service request is created.
 
-![Screen 4 - Confirmation](../Screenshots/screen4_confirmation.png)
-
+![confirmation screen](../Screenshots/screenflowconfirmation.png)
 
 ---
 
