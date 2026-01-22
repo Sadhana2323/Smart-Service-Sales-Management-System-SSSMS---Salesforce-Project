@@ -1,10 +1,19 @@
-## Objects Used
+# Object Screenshots
 
-1. Service Request
-   - Stores customer service requests
+## Service Request Object
 
-2. Technician Assignment
-   - Stores technician work details linked to service requests
+![Service Request Object](../Screenshots/servicerequestobject.png)
 
-3. Payment
-   - Stores payment details for completed services
+---
+
+## Technician Assignment Object
+
+![Technician Assignment Object](../Screenshots/technicianassignmentobject.png)
+
+---
+
+## Payment Object
+
+![Payment Object](../Screenshots/paymentobjectscreenshot.png)
+
+
