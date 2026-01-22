@@ -8,10 +8,10 @@
 
 ## Technician Assignment Object
 
-![Technician Assignment Object](../Screenshots/technician_assignment_object.png)
+![Technician Assignment Object](../Screenshots/technicianassignmentobject1.png)
 
 ---
 
 ## Payment Object
 
-![Payment Object](../Screenshots/payment_object.png)
+![Payment Object](../Screenshots/paymentobjectscreenshot.png)
