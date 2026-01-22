@@ -6,10 +6,11 @@ This dashboard displays key performance indicators for service management.
 
 ## Service Request Management
 
-It shows the service request management dashboard
+It shows both service request priority and monthly revenue dashboard
 
 
-![Service request dashboard](../Screenshots/servicerequestmanagement.png)
+![Service request dashboard](../Screenshots/servicemanagementscreenshot.png)
+
 ---
 
 
@@ -18,4 +19,4 @@ It shows the service request management dashboard
 
 Dashboard helps managers track service performance easily.
 
-![Service Request Report](../Screenshots/servicerequestreport.png)
+
