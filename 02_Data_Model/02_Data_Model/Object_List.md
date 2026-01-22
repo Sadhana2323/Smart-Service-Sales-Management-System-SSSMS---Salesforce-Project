@@ -2,13 +2,13 @@
 
 ## Service Request Object
 
-![Service Request Object](../Screenshots/servicerequestobject.png)
+![Service Request Object](../Screenshots/servicerequestobjectss.png)
 
 ---
 
 ## Technician Assignment Object
 
-![Technician Assignment Object](../Screenshots/technicianassignmentobject.png)
+![Technician Assignment Object](../Screenshots/technicianassignmentobjectss.png)
 
 ---
 
